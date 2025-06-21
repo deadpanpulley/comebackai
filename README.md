@@ -16,7 +16,7 @@ A Supabase project (for backend services)
 🚀 Getting Started
 Clone the repository
 
-git clone https://github.com/yourusername/comeback-planner.git
+git clone https://github.com/yourusername/comebackai.git
 cd comeback-planner
 Install dependencies
 
